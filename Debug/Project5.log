@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Uni 1st Sem\Cp Theory\Project5\Project5\Function.h(136,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Uni 1st Sem\Cp Theory\Project5\Project5\Function.h(150,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project5.vcxproj -> D:\Uni 1st Sem\Cp Theory\Project5\Project5\x64\Debug\Project5.exe
